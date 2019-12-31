@@ -17,11 +17,11 @@ SERVER_ID = "a787d344afee4523affa8aeefc88b2af"
 SECRET_KEY_NAME = "private_20191231115700.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://pm191127samplebot.herokuapp.com/"
+LOCAL_ADDRESS = "https://shift-worksmobile.herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-54-235-248-185.compute-1.amazonaws.com"
-DB_NAME = "d948ducpbs8to4"
-DB_USER = "irxbslbpfagcyw"
+DB_HOST = "ec2-54-235-250-38.compute-1.amazonaws.com"
+DB_NAME = "d6vvb3ssjf0o4c"
+DB_USER = "bpttmitdgumryt"
 DB_PORT = "5432"
-DB_PASSWORD = "4484cc1abc190bd1bc9c46da75ff2f67df260963ee3e87f0eb7fd2eecd3942d3"
+DB_PASSWORD = "23acf6c6183300842b6efb36fc148cddfee4439dd295fb2f827cdf2861e9f32e"
